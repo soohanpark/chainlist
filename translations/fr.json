@@ -10,6 +10,9 @@
     "add-your-network": "Ajouter votre réseau",
     "add-your-rpc": "Ajouter votre RPC",
     "language": "Français",
+    "explorer-name": "Nom de l'explorateur",
+    "explorer-url": "URL de l'explorateur",
+    "explorer-url-list": "Liste des URL d'explorateur",
     "add-to-metamask": "Ajouter à Metamask",
     "add-to-imToken": "Ajouter à imToken",
     "add-to-wallet": "Ajouter au portefeuille",
@@ -20,7 +23,6 @@
     "no-privacy-info": "Aucune information de confidentialité",
     "add-to-taho": "Ajouter à Taho",
     "contact-us": "Contactez-nous",
-    "toggle-theme": "Changer le thème",
-    "your-ad-here": "Votre publicité ici"
+    "toggle-theme": "Changer le thème"
   }
 }

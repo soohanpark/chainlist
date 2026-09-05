@@ -10,6 +10,9 @@
     "add-your-network": "Ağınızı Ekleyin",
     "add-your-rpc": "RPC'nizi Ekleyin",
     "language": "Türkçe",
+    "explorer-name": "Gezgin Adı",
+    "explorer-url": "Gezgin URL",
+    "explorer-url-list": "Gezgin URL Listesi",
     "add-to-metamask": "Metamask'a Ekle",
     "add-to-imToken": "imToken'a ekle",
     "add-to-wallet": "Cüzdana Ekle",
@@ -20,7 +23,6 @@
     "add-to-ctrl": "Ctrl Wallet'ya ekle",
     "no-privacy-info": "Gizlilik bilgisi yok",
     "toggle-theme": "Temayı Değiştir",
-    "your-ad-here": "Reklamınız burada görünür",
     "contact-us": "Bize ulaşın"
   }
 }
